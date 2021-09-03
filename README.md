@@ -11,6 +11,9 @@ Obs: Essas são as 3 principais bibliotecas usadas. Então essencialmente é uma
 - Python
 - Importar as bibliotecas 
 
+## Licença
+Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
+
 ## Guia
 ### Projeto 1
 1) Analisar o IBOV
@@ -31,6 +34,3 @@ Vamos analisar como que os ativos performaram, quanto que rendeu a carteira como
 6) Criar um dataframe da Carteira com as quantidades de ações
 7) Comparação Carteira x IBOV
 8) Correlação da Carteira com o IBOV
-
-## Licença
-Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
